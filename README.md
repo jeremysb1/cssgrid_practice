@@ -19,3 +19,7 @@ Exercise 3 is a 12-column, 12-row grid layout.
 Exercise 4 is also a 12-column, 12-row grid layout but with additional subrows.
 
 ![Image of 12-Column, 12-row Layout](https://github.com/jeremysb1/cssgrid_practice/blob/main/cssgrid4/grid4layout.png)
+
+Exercise 5 is also a 12-column, 12-row grid layout but with additional subrows and side-rows.
+
+![Image of 12-Column, 12-row Layout](https://github.com/jeremysb1/cssgrid_practice/blob/main/cssgrid5/grid5layout.png)
