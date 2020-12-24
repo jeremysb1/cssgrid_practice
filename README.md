@@ -22,4 +22,4 @@ Exercise 4 is also a 12-column, 12-row grid layout but with additional subrows.
 
 Exercise 5 is also a 12-column, 12-row grid layout but with additional subrows and side-rows.
 
-![Image of 12-Column, 12-row Layout](https://github.com/jeremysb1/cssgrid_practice/blob/main/cssgrid5/grid5.png)
+![Image of 12-Column, 12-row Layout](https://github.com/jeremysb1/cssgrid_practice/blob/main/cssgrid5/cssgrid5.png)
