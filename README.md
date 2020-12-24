@@ -1,10 +1,8 @@
 # CSS Grid Exercises
 
-Since I learn coding best by making things, I am practicing building simple and more complex layouts with CSS Grid. 
+Since I learn best by making things, I am practicing building progressively more complex CSS Grid layouts.
 
-This repo will contain progressively more complex layouts in each subsequent exercise. Each layout is fully-responsive.
-
-Exercise 1 is a single column layout
+Exercise 1 is a single column layout.
 
 ![Image of Single Column Layout](https://github.com/jeremysb1/cssgrid_practice/blob/main/cssgrid_exercise1/grid1Layout.png)
 
