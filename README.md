@@ -13,3 +13,5 @@ Exercise 1 is a single column layout
 ![Image of 12-Column, 2-row Layout](https://github.com/jeremysb1/cssgrid_practice/blob/main/cssgrid_2/grid2layout.png)
 
 - Exercise 3 is a 12-column, 12-row grid layout.
+
+![Image of 12-Column, 12-row Layout](https://github.com/jeremysb1/cssgrid_practice/blob/main/cssgrid3/grid3layout.png)
