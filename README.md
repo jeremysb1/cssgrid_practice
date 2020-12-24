@@ -10,6 +10,6 @@ Exercise 1 is a single column layout
 
 - Exercise 2 is a 12-column, 2-row layout.
 
-![Image of 12-Column, 2-row Layout](https://github.com/jeremysb1/cssgrid_practice/blob/main/cssgrid_exercise1/grid1Layout.png)
+![Image of 12-Column, 2-row Layout](https://github.com/jeremysb1/cssgrid_practice/blob/main/cssgrid_2/grid2layout.png)
 
 - Exercise 3 is a 12-column, 12-row grid layout.
