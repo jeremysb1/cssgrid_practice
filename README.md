@@ -1,6 +1,6 @@
 # CSS Grid Exercises
 
-I am building progressively more complex CSS Grid layouts to learn CSS Grid.
+I built some CSS Grid layouts to learn CSS Grid.
 
 Exercise 1 is a single column layout.
 
